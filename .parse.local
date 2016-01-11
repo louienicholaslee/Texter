@@ -1,0 +1,10 @@
+{
+  "applications": {
+    "Texter": {
+      "applicationId": "UY8oouP0KxzXi2smxqDyItu3gARpgmFI3YonjIZd"
+    },
+    "_default": {
+      "link": "Texter"
+    }
+  }
+}
